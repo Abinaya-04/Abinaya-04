@@ -1,5 +1,5 @@
-<h1 align="center">Abinaya Justin | Final Year CSE Student | Problem Solver | Innovator</h1>
-<h3 align="center">Aspiring software engineer and final year CSE student passionate about leveraging technology to create impact.</h3>
+<h1 align="center">Abinaya J | Fresher | Problem Solver | Innovator</h1>
+<h3 align="center">Aspiring Java full-stack developer who's passionate about leveraging technology to create impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinaya-04&label=Profile%20views&color=0e75b6&style=flat" alt="abinaya-04" /> </p>
 
@@ -7,7 +7,9 @@
 
 -  I’m eager to connect and collaborate.
 
--  Seeking dynamic opportunities and ready to contribute **abinayakyr@gmail.com**
+- Waiting to contribute my expertise in real-world projects.
+
+-  Seeking dynamic opportunities and ready to pitch in **abinayakyr@gmail.com**
 
 <h3 align="left">Got a brilliant idea? Let's make it a reality!</h3>
 <p align="left">
