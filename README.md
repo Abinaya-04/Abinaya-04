@@ -18,9 +18,9 @@
 <h3 align="left">My Tech Arsenal:</h3>
 <p align="left"> 
   <!-- Python Icon -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
+  </a> -->
 
   <!-- Java Icon (placed right next to the closing </a> of the Python icon) -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
